@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReserveTable</string>
+    <string name="persName">Name: </string>
+    <string name="groupSize">Size of Group: </string>
+    <string name="phone">Phone: </string>
+    <string name="date">Select Date: </string>
+    <string name="time">Select Time: </string>
+    <string name="type">Type of Table: (if non-smoking do not have to click)</string>
+    <string name="reset">RESET: </string>
+</resources>
